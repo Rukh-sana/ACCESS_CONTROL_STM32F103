@@ -12,14 +12,6 @@ This is an embedded Access Control System based on the STM32F103C8T6 microcontro
 - Potential integration with RFID, Keypad, or biometric sensors
 - Linker script and project config files included
 
-## 📁 Project Structure
-
-- `.ioc`: CubeMX configuration
-- `STM32F103C8TX_FLASH.ld`: Linker script
-- `ACCESS_CONTROL Debug.cfg` and `.launch`: Debug and launch configs
-- `Drivers/`: Auto-generated HAL/LL drivers
-- `Core/`: Application logic (main.c, etc.)
-
 ## 💻 How to Build
 
 1. Clone the repo:
